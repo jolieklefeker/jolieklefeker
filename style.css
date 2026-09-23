@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-source-code: "Source Code Pro", monospace; 
+}
+/*
+color-cyan-100
+color-black
+color-lime-300
+
+<nav class="main-menu w-full">
+        <ul class="w-full flex flex-row justify-around">
+            <li class="hover:text-lime-300 hover:underline"><a href="../index.html">home</a></li>
+            <li class="hover:text-lime-300 hover:underline"><a href="../pages/about.html">about</a></li>
+            <li class="hover:text-lime-300 hover:underline"><a href="../pages/projects.html">projects</a></li>
+            <li class="hover:text-lime-300 hover:underline"><a href="../pages/contact.html">contact</a></li>
+        </ul>
+        </nav>
+*/
